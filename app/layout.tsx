@@ -1,5 +1,7 @@
 import { Metadata } from "next";
 
+import "#/app/global.css";
+
 export const metadata = {
   title: "Next.js + StyleX playground",
   description: "Hello",
